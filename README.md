@@ -1,4 +1,4 @@
-# lembra-ai-app
+## lembra-ai-app
 # Olá, eu sou o João 👋
 
 - 🎓 Estudando programação e Git
